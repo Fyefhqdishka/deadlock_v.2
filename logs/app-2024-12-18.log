@@ -1,0 +1,499 @@
+time=2024-12-18T13:05:38.920+05:00 level=INFO msg="server starting in port" !BADKEY=8000
+time=2024-12-18T13:35:22.644+05:00 level=DEBUG msg=Login "starting login attempt"=username !BADKEY=Anuar
+time=2024-12-18T13:35:22.644+05:00 level=DEBUG msg=LoginUser !BADKEY="starting login user"
+time=2024-12-18T13:35:22.644+05:00 level=DEBUG msg=Login username=Anuar
+time=2024-12-18T13:35:22.763+05:00 level=INFO msg="пользователь успешно аутентифицирован" username=Anuar
+time=2024-12-18T13:35:22.763+05:00 level=INFO msg=Login "user authenticated successfully"=username !BADKEY=Anuar
+time=2024-12-18T13:45:23.008+05:00 level=INFO msg="server starting in port" !BADKEY=8000
+time=2024-12-18T13:45:42.491+05:00 level=DEBUG msg="Обработка запроса на добавление поста в БД"
+time=2024-12-18T13:48:57.983+05:00 level=INFO msg="server starting in port" !BADKEY=8000
+time=2024-12-18T13:49:12.492+05:00 level=DEBUG msg="Обработка запроса на добавление поста в БД"
+time=2024-12-18T13:49:12.500+05:00 level=DEBUG msg=PostCreate !BADKEY="Добавление поста в БД прошло успешно"
+time=2024-12-18T14:15:58.763+05:00 level=INFO msg="server starting in port" !BADKEY=8000
+time=2024-12-18T14:16:17.687+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:16:17.691+05:00 level=ERROR msg=GetAllPosts "Failed to scan post row"=err: !BADKEY="can't scan into dest[2]: cannot scan timestamp (OID 1114) in binary format into *string"
+time=2024-12-18T14:19:21.201+05:00 level=INFO msg="server starting in port" !BADKEY=8000
+time=2024-12-18T14:19:51.295+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:19:51.303+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:19:51.340+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:19:51.340+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:20:10.641+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:20:10.641+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:20:17.243+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:20:17.244+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:20:31.496+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:20:31.497+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:22:12.757+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:22:12.757+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:22:16.240+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:22:16.240+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:22:43.979+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:22:43.979+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:23:59.264+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:23:59.266+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:24:01.433+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:24:01.433+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:24:46.803+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:24:46.803+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:24:49.217+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:24:49.217+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:26:34.755+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:26:34.756+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:26:51.690+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:26:51.691+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:26:59.732+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:26:59.732+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:27:05.587+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:27:05.587+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:28:25.452+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:28:25.452+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:28:50.778+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:28:50.779+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:29:25.767+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:29:25.767+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:29:33.021+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:29:33.022+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:29:34.139+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:29:34.139+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:29:36.564+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:29:36.565+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:31:00.256+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:31:00.256+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:31:03.509+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:31:03.510+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:33:29.921+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:33:29.921+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:33:38.032+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:33:38.032+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:35:33.980+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:35:33.980+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:35:36.524+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:35:36.524+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:36:38.875+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:36:38.875+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:36:42.104+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:36:42.104+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:37:56.586+05:00 level=INFO msg="server starting in port" !BADKEY=8000
+time=2024-12-18T14:38:04.407+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:38:04.411+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:38:17.796+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:38:17.796+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:38:20.006+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:38:20.006+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:38:53.107+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:38:53.108+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:39:21.411+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:39:21.412+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:39:32.889+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:39:32.889+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:40:03.554+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:40:03.555+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:40:42.832+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:40:42.832+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:41:30.737+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:41:30.738+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:41:32.504+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:41:32.504+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:42:39.327+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:42:39.327+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:44:03.382+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:44:03.383+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:47:10.563+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:47:10.564+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:47:35.336+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:47:35.337+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:47:41.569+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:47:41.570+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:47:51.180+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:47:51.180+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:47:55.345+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:47:55.345+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:47:57.860+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:47:57.861+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:48:00.743+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:48:00.743+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:48:02.936+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:48:02.937+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:53:02.435+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:53:02.435+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:53:56.903+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:53:56.903+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:54:01.624+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:54:01.624+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:54:05.880+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:54:05.880+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:55:20.746+05:00 level=INFO msg="server starting in port" !BADKEY=8000
+time=2024-12-18T14:55:28.151+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:55:28.156+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T14:55:43.888+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T14:55:43.888+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:11:57.877+05:00 level=INFO msg="server starting in port" !BADKEY=8000
+time=2024-12-18T15:12:08.807+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:12:08.813+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:12:09.634+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:12:09.634+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, p.created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:12:09.635+05:00 level=ERROR msg="Failed to get post" postID=22 err="number of field descriptions must equal number of destinations, got 5 and 4"
+time=2024-12-18T15:12:14.180+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:12:14.181+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:13:19.411+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:13:19.411+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:14:25.732+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:14:25.732+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:14:32.023+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:14:32.023+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, p.created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:14:32.023+05:00 level=ERROR msg="Failed to get post" postID=22 err="number of field descriptions must equal number of destinations, got 5 and 4"
+time=2024-12-18T15:15:37.695+05:00 level=INFO msg="server starting in port" !BADKEY=8000
+time=2024-12-18T15:15:43.666+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:15:43.670+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:15:56.865+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:15:56.865+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, p.created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:15:56.866+05:00 level=ERROR msg="Failed to get post" postID=22 err="can't scan into dest[2]: cannot scan timestamp (OID 1114) in binary format into *string"
+time=2024-12-18T15:17:36.293+05:00 level=INFO msg="server starting in port" !BADKEY=8000
+time=2024-12-18T15:17:39.513+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:17:39.518+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:17:43.453+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:17:43.453+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:17:43.454+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:20:04.751+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:20:04.751+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:20:04.752+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:21:25.968+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:21:25.968+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:21:25.969+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:21:31.238+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:21:31.239+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:21:34.425+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:21:34.425+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:21:34.426+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:22:31.555+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:22:31.556+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:22:34.851+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:22:34.851+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:22:34.851+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:24:49.027+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:24:49.027+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:24:52.143+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:24:52.143+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:24:52.143+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:24:58.959+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:24:58.959+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:24:58.959+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:26:52.099+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:26:52.100+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:27:03.713+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:27:03.713+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:27:03.714+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:28:39.391+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:28:39.391+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:28:39.391+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:28:40.506+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:28:40.506+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:28:40.507+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:28:41.263+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:28:41.263+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:28:41.264+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:28:49.278+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:28:49.279+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:30:18.045+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:30:18.045+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:30:21.984+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:30:21.984+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:30:21.984+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:31:36.204+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:31:36.204+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:31:53.491+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:31:53.491+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:31:53.491+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:34:37.751+05:00 level=INFO msg="server starting in port" !BADKEY=8000
+time=2024-12-18T15:34:41.666+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:34:41.670+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:34:43.835+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:34:43.835+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:34:43.836+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:35:41.423+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:35:41.423+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:35:45.446+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:35:45.446+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:35:45.447+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:36:38.209+05:00 level=INFO msg="server starting in port" !BADKEY=8000
+time=2024-12-18T15:36:41.722+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:36:41.727+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:36:43.195+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:36:43.195+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:36:43.196+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:36:45.128+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:36:45.128+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:36:45.129+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:36:47.933+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:36:47.933+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:36:47.934+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:36:49.858+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:36:49.858+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:36:49.858+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:36:50.360+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:36:50.360+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:36:50.361+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:37:35.662+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:37:35.663+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:37:37.206+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:37:37.206+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:37:37.206+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:37:59.309+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:37:59.309+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:37:59.309+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:37:59.928+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:37:59.928+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:37:59.929+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:38:00.383+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:38:00.383+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:38:00.384+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:38:00.527+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:38:00.527+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:38:00.527+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:38:02.782+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:38:02.783+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:38:05.454+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:38:05.454+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:38:05.454+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:38:09.676+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:38:09.676+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:38:09.676+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:38:11.819+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:38:11.819+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:38:11.819+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:38:18.820+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:38:18.821+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:38:27.199+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:38:27.199+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:41:33.782+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:41:33.782+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:41:48.772+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:41:48.772+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:41:48.772+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:41:52.530+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:41:52.530+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:41:55.393+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:41:55.393+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:42:01.306+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:42:01.306+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:42:01.306+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:42:10.591+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:42:10.591+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:42:33.287+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:42:33.287+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:42:33.287+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:42:34.713+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:42:34.713+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:42:35.457+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:42:35.457+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:42:35.457+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:42:35.458+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:42:35.458+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:42:35.458+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:42:47.968+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:42:47.968+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:42:47.969+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:42:48.001+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:42:48.001+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:42:48.001+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:42:51.544+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:42:51.544+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:42:51.545+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:42:51.584+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:42:51.584+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:42:51.585+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:42:52.843+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:42:52.843+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:42:52.843+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:42:52.843+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:42:52.843+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:42:52.887+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:42:59.180+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:42:59.180+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:42:59.180+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:42:59.180+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:42:59.181+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:42:59.181+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:43:09.977+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:43:09.977+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:43:09.978+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:43:09.998+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:43:09.998+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:43:09.998+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:43:10.659+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:43:10.659+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:43:11.464+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:43:11.464+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:43:11.465+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:43:11.465+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:43:11.465+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:43:11.465+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:43:12.935+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:43:12.935+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:43:13.426+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:43:13.426+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:43:13.426+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:43:13.427+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:43:13.427+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:43:13.427+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:44:46.313+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:44:46.313+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:44:46.314+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:44:50.666+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:44:50.666+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:44:50.667+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:44:51.758+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:44:51.758+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:44:52.290+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:44:52.290+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:44:52.290+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:45:13.483+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:45:13.483+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:45:13.483+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:45:15.190+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:45:15.190+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:45:15.190+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:46:10.811+05:00 level=INFO msg="server starting in port" !BADKEY=8000
+time=2024-12-18T15:46:14.897+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:46:14.897+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:46:14.903+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:46:14.914+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:46:14.914+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:46:15.450+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:46:15.450+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:46:15.450+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:46:20.563+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:46:20.563+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:46:20.563+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:46:33.256+05:00 level=INFO msg="server starting in port" !BADKEY=8000
+time=2024-12-18T15:46:37.607+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:46:37.607+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:46:37.611+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:46:37.614+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:46:37.614+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:46:37.615+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:46:39.327+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:46:39.327+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:46:41.798+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:46:41.798+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:46:41.799+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:46:56.150+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:46:56.151+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:46:57.108+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:46:57.108+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:46:57.109+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:48:14.898+05:00 level=DEBUG msg="Обработка запроса на добавление поста в БД"
+time=2024-12-18T15:48:14.911+05:00 level=DEBUG msg=PostCreate !BADKEY="Добавление поста в БД прошло успешно"
+time=2024-12-18T15:48:16.077+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:48:16.078+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:48:18.994+05:00 level=INFO msg="Fetching post" postID=23
+time=2024-12-18T15:48:18.994+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=23
+time=2024-12-18T15:48:18.995+05:00 level=INFO msg="Successfully fetched post" postID=23 title="Сессия субд"
+time=2024-12-18T15:48:23.473+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:48:23.474+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:48:24.060+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:48:24.060+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:48:24.061+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:48:24.961+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:48:24.961+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:48:25.821+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:48:25.821+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:48:30.640+05:00 level=DEBUG msg="Обработка запроса на добавление поста в БД"
+time=2024-12-18T15:48:30.649+05:00 level=DEBUG msg=PostCreate !BADKEY="Добавление поста в БД прошло успешно"
+time=2024-12-18T15:48:31.254+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:48:31.254+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:48:34.237+05:00 level=DEBUG msg="Обработка запроса на добавление поста в БД"
+time=2024-12-18T15:48:34.237+05:00 level=DEBUG msg=PostCreate !BADKEY="Добавление поста в БД прошло успешно"
+time=2024-12-18T15:48:34.868+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:48:34.868+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:48:39.601+05:00 level=INFO msg="Fetching post" postID=23
+time=2024-12-18T15:48:39.601+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=23
+time=2024-12-18T15:48:39.601+05:00 level=INFO msg="Successfully fetched post" postID=23 title="Сессия субд"
+time=2024-12-18T15:48:40.711+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:48:40.712+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:48:41.101+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T15:48:41.101+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T15:48:41.101+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T15:48:42.174+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:48:42.174+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:48:42.679+05:00 level=INFO msg="Fetching post" postID=24
+time=2024-12-18T15:48:42.679+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=24
+time=2024-12-18T15:48:42.680+05:00 level=INFO msg="Successfully fetched post" postID=24 title=ываыв
+time=2024-12-18T15:48:43.681+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:48:43.681+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:48:44.260+05:00 level=INFO msg="Fetching post" postID=25
+time=2024-12-18T15:48:44.260+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=25
+time=2024-12-18T15:48:44.260+05:00 level=INFO msg="Successfully fetched post" postID=25 title=ываываыв
+time=2024-12-18T15:48:45.647+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:48:45.648+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:48:49.506+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:48:49.507+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:48:50.985+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:48:50.986+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:48:52.872+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:48:52.872+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:48:56.266+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:48:56.267+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:49:00.566+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:49:00.566+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:49:08.501+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:49:08.502+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:49:12.970+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:49:12.971+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T15:50:43.138+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T15:50:43.139+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T18:06:33.265+05:00 level=INFO msg="server starting in port" !BADKEY=8000
+time=2024-12-18T18:06:44.173+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T18:06:44.185+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T18:06:47.961+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T18:06:47.961+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T18:06:56.609+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T18:06:56.610+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T18:07:01.244+05:00 level=INFO msg="Fetching post" postID=22
+time=2024-12-18T18:07:01.244+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=22
+time=2024-12-18T18:07:01.245+05:00 level=INFO msg="Successfully fetched post" postID=22 title=sadsadsad
+time=2024-12-18T18:07:02.929+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T18:07:02.929+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T18:07:03.816+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T18:07:03.816+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T18:07:05.045+05:00 level=INFO msg="Fetching post" postID=23
+time=2024-12-18T18:07:05.045+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=23
+time=2024-12-18T18:07:05.046+05:00 level=INFO msg="Successfully fetched post" postID=23 title="Сессия субд"
+time=2024-12-18T18:07:06.281+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T18:07:06.281+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T18:07:09.185+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T18:07:09.185+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T18:07:18.097+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T18:07:18.098+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T18:07:22.684+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T18:07:22.685+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T18:07:31.108+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T18:07:31.109+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T18:07:32.269+05:00 level=INFO msg="Fetching post" postID=24
+time=2024-12-18T18:07:32.269+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=24
+time=2024-12-18T18:07:32.270+05:00 level=INFO msg="Successfully fetched post" postID=24 title=ываыв
+time=2024-12-18T18:07:33.374+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T18:07:33.375+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T18:07:33.951+05:00 level=INFO msg="Fetching post" postID=23
+time=2024-12-18T18:07:33.951+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=23
+time=2024-12-18T18:07:33.952+05:00 level=INFO msg="Successfully fetched post" postID=23 title="Сессия субд"
+time=2024-12-18T18:07:36.241+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T18:07:36.241+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T18:07:37.035+05:00 level=INFO msg="Fetching post" postID=25
+time=2024-12-18T18:07:37.035+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=25
+time=2024-12-18T18:07:37.035+05:00 level=INFO msg="Successfully fetched post" postID=25 title=ываываыв
+time=2024-12-18T18:07:38.074+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T18:07:38.074+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T18:07:41.560+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T18:07:41.561+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T18:07:44.007+05:00 level=INFO msg="Fetching post" postID=23
+time=2024-12-18T18:07:44.007+05:00 level=INFO msg="Executing query" query="SELECT p.title, p.content, TO_CHAR(p.created_at, 'YYYY-MM-DD HH24:MI:SS') AS created_at, u.username, u.avatar\n\tFROM posts p\n\tJOIN users u ON p.user_id = u.id\n\tWHERE p.id = $1;" postID=23
+time=2024-12-18T18:07:44.007+05:00 level=INFO msg="Successfully fetched post" postID=23 title="Сессия субд"
+time=2024-12-18T18:07:46.081+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T18:07:46.081+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T18:07:51.241+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T18:07:51.242+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T18:07:53.492+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T18:07:53.493+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2024-12-18T18:13:07.132+05:00 level=DEBUG msg="Получение всех постов"
+time=2024-12-18T18:13:07.133+05:00 level=DEBUG msg="Все посты получены успешно"
