@@ -17,7 +17,7 @@ type Storage struct {
 func (s *Storage) Create(ctx context.Context, user *models.User) error {
 	s.log.Debug("starting registration")
 
-	query := `
+	stmt := `
 		INSERT INTO users (name, username, email, password, gender, dob, avatar) 
 		VALUES ($1, $2, $3, $4, $5, $6, $7)
 	`
@@ -26,7 +26,7 @@ func (s *Storage) Create(ctx context.Context, user *models.User) error {
 
 	user.Avatar = Avatar
 
-	res, err := s.db.Exec(ctx, query,
+	res, err := s.db.Exec(ctx, stmt,
 		user.Name,
 		user.Username,
 		user.Email,
@@ -36,7 +36,7 @@ func (s *Storage) Create(ctx context.Context, user *models.User) error {
 		user.Avatar,
 	)
 
-	s.log.Debug("SQL query:", query)
+	s.log.Debug("SQL query:", stmt)
 
 	s.log.Debug("registration ", res)
 

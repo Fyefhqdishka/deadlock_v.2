@@ -56,7 +56,7 @@ func New(cfg *config.Config) (*App, error) {
 		cfg.DB.Port,
 		cfg.DB.Name,
 	)
-
+	
 	db, err := postgres.ConnectDB(dsn)
 	if err != nil {
 		return nil, fmt.Errorf("failed to connect to database: %v", err)
