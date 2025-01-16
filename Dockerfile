@@ -26,4 +26,8 @@ COPY logs /logs
 RUN mkdir -p /logs /migrations
 
 # Запускаем приложение
+<<<<<<< HEAD
 CMD ["/app"]
+=======
+CMD ["/app"]
+>>>>>>> 1bc302a1131fc1a4f3331f4ed2fd15212c2d44d7
