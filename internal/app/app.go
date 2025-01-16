@@ -11,6 +11,7 @@ import (
 	"github.com/golang-migrate/migrate/v4"
 	"github.com/gorilla/mux"
 	"github.com/jackc/pgx/v5/pgxpool"
+	"github.com/joho/godotenv"
 	"github.com/rs/cors"
 	"log"
 	"log/slog"
@@ -56,7 +57,7 @@ func New(cfg *config.Config) (*App, error) {
 		cfg.DB.Port,
 		cfg.DB.Name,
 	)
-	
+
 	db, err := postgres.ConnectDB(dsn)
 	if err != nil {
 		return nil, fmt.Errorf("failed to connect to database: %v", err)
@@ -127,4 +128,10 @@ func initMigrations(dsn string) {
 	}
 
 	fmt.Println("Миграции успешно применены!")
+}
+
+func init() {
+	if err := godotenv.Load(); err != nil {
+		log.Fatalf("can't load env file, err=%v", err)
+	}
 }

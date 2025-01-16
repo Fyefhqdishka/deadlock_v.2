@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"github.com/Fyefhqdishka/deadlock_v.2/internal/app"
 	"github.com/Fyefhqdishka/deadlock_v.2/internal/config"
-	"github.com/joho/godotenv"
 	"log"
 	"os"
 	"os/signal"
@@ -34,11 +33,5 @@ func main() {
 	<-quit
 	if err := app.Stop(); err != nil {
 		fmt.Errorf("error during shutdown: %v", err)
-	}
-}
-
-func init() {
-	if err := godotenv.Load(); err != nil {
-		log.Fatalf("can't load env file, err=%v", err)
 	}
 }
