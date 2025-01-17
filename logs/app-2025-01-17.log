@@ -1,0 +1,8 @@
+time=2025-01-17T21:09:27.874+05:00 level=INFO msg="server starting in port" !BADKEY=8000
+time=2025-01-17T21:13:51.415+05:00 level=INFO msg="server starting in port" !BADKEY=8000
+time=2025-01-17T21:14:28.701+05:00 level=INFO msg="server starting in port" !BADKEY=8000
+time=2025-01-17T21:14:55.834+05:00 level=INFO msg="server starting in port" !BADKEY=8000
+time=2025-01-17T21:15:11.852+05:00 level=DEBUG msg="Получение всех постов"
+time=2025-01-17T21:15:11.865+05:00 level=DEBUG msg="Все посты получены успешно"
+time=2025-01-17T21:15:14.911+05:00 level=DEBUG msg="Получение всех постов"
+time=2025-01-17T21:15:14.911+05:00 level=DEBUG msg="Все посты получены успешно"

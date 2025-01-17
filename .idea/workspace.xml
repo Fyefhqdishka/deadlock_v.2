@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="236ed761-5ff9-45a9-85ff-6233e2f325ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/internal/chat/handlers/websocket.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/chat/models/message.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/chat/service/chat.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/chat/storage/postgres.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/chat/storage/redis.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/internal/ui/src/components/UserList/UserList.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/internal/ui/src/components/UserList/UserList.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/internal/ui/src/pages/Footer/Footer.jsx" afterDir="false" />
@@ -13,6 +18,10 @@
       <change afterPath="$PROJECT_DIR$/internal/ui/src/pages/Post/Post.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/internal/ui/src/pages/PostPage/PostPage.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/internal/ui/src/pages/PostPage/PostPage.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/ui" beforeDir="false" afterPath="$PROJECT_DIR$/internal/ui" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/internal/ui/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/internal/ui/node_modules/.package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/internal/ui/node_modules/.vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/internal/ui/node_modules/.vite/deps/_metadata.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/internal/ui/node_modules/.vite/deps/chunk-MCEUSTYS.js" beforeDir="false" />
@@ -66,14 +75,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go File" />
         <option value="Dockerfile" />
+        <option value="Go File" />
       </list>
     </option>
   </component>
   <component name="GOROOT" url="file://$PROJECT_DIR$/../../Program Files/Go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/internal/ui" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
